@@ -19,10 +19,12 @@ L’objectif est de reproduire fidèlement l’interface de WhatsApp Business en
 - Inviter un contact
 
 ## ✨ Captures d'écrans
-<img src="./screenshots/light_1_whatsapp_params.jpg" style="width: 110px; margin-left: 5px" alt=""> 
-<img src="./screenshots/light_2_whatsapp_params.jpg" style="width: 110px; margin-left: 5px" alt=""> 
-<img src="./screenshots/dark_1_whatsapp_params.jpg" style="width: 110px; margin-left: 5px" alt=""> 
-<img src="./screenshots/dark_2_whatsapp_params.jpg" style="width: 110px; margin-left: 5px" alt=""> 
+<div style="display: flex; gap: 10px;"> 
+    <img src="./screenshots/light_1_whatsapp_params.jpg" style="width: 110px; margin-left: 5px" alt=""> 
+    <img src="./screenshots/light_2_whatsapp_params.jpg" style="width: 110px; margin-left: 5px" alt=""> 
+    <img src="./screenshots/dark_1_whatsapp_params.jpg" style="width: 110px; margin-left: 5px" alt=""> 
+    <img src="./screenshots/dark_2_whatsapp_params.jpg" style="width: 110px; margin-left: 5px" alt=""> 
+</div> 
 
 ## 👨‍💻 Auteur
 - Projet réalisé par Ibrahim KONDO 🚀
