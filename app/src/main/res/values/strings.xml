@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">whatsapp_params</string>
+    <string name="search">search</string>
+    <string name="i_b_m">[_I_B_M_]</string>
+    <string name="description">Description</string>
+    <string name="titre">Titre</string>
+    <string name="profil">profil</string>
+    <string name="qrcode">qrcode</string>
+    <string name="from">from</string>
+    <string name="meta">Meta</string>
+    <string name="parametre">Paramètre</string>
+    <string name="meta_verified">Meta Verified</string>
+</resources>
